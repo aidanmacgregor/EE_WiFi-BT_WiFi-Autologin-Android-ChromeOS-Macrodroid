@@ -26,9 +26,9 @@ Settings & Information Here<br/>
 ![3  Screenshot_20220415-230400_MacroDroid_copy_640x1422](https://user-images.githubusercontent.com/11254983/163649231-921d6e70-86e0-46d0-8064-635d2b450ab8.png) <br/>
 
 	
-## Android Code & Downloads
+## Android Downloads
     	
-[Login Service Download](https://github.com/aidanmacgregor/BT_Wi-fi_Autologin_-_OpenWrt_Windows.EXE_Linux_Android-Macrodroid/tree/main/BT%20Wi-Fi%20Autologin%20Service/Login%20Service%20Android%20(Macrdroid))
+[Login Service Download](https://github.com/aidanmacgregor/BTWi-Fi_Autologin_-_Android_ChromeOS_Macrodroid/releases)
   
   ## Full Program
 <details>
