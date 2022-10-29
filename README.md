@@ -1,1 +1,1 @@
-# BTWi-Fi_Autologin_-_Android_-_ChromeOS_-_Macrodroid
+# BTWi-Fi_Autologin_-_Android-ChromeOS-Macrodroid
