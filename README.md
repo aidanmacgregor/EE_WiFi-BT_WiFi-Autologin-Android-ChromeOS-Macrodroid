@@ -1,3 +1,13 @@
+  # This Is Part Of The BT Wi-Fi Autologin Services Also Availible For
+
+ - Windows
+ - Linux
+ - Android (& Chromebook)
+ 
+ ### Availible Here:
+ https://github.com/aidanmacgregor/BT_Wi-fi_Autologin_-_OpenWrt_Windows.EXE_Linux_Android-Macrodroid
+ 
+ 
  # ![MacroDroid_forum_48](https://user-images.githubusercontent.com/11254983/164982041-be7d0dd7-5c9a-4b24-a5a4-4e8f82a17bc5.png) Macrodroid Autologin Setup (Android 5.0+ & Chrome OS)<br/>
 Automatic Login From An Android Device, With Alway Online, Charging Only Mode, Track The Number Of Logins & See How To Set Android Up As Wi-Fi Repeater 
 
