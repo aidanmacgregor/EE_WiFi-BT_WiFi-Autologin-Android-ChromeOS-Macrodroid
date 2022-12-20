@@ -11,6 +11,8 @@
  # ![MacroDroid_forum_48](https://user-images.githubusercontent.com/11254983/164982041-be7d0dd7-5c9a-4b24-a5a4-4e8f82a17bc5.png) Macrodroid Autologin Setup (Android 5.0+ & Chrome OS)<br/>
 Automatic Login From An Android Device, With Alway Online, Charging Only Mode, Track The Number Of Logins & See How To Set Android Up As Wi-Fi Repeater 
 
+This macro is intended to manage login sessions to a BT Wi-Fi network. It includes variables for the user's email and password, as well as a "BT Account Type" variable that may be used to specify the type of BT Wi-Fi account the user has. The macro also includes actions to check the device's connectivity to the internet, perform a login to the BT Wi-Fi network, and check the status of the login session.
+
 
 ## Downoad From Play Store Template Available In The Macrodroid Template Store!
 
