@@ -16,17 +16,15 @@ This macro is intended to manage login sessions to a BT Wi-Fi network. It includ
 
 ## Downoad From Play Store Template Available In The Macrodroid Template Store!
 
-![Screenshot_20220502-194637_MacroDroid](https://user-images.githubusercontent.com/11254983/166310061-5c8bb11f-a9ec-429a-aa6c-8796fb5f5a72.jpg)
- <br/>
-
+![md1](https://github.com/user-attachments/assets/32fca448-320d-44ea-b557-d9e227c2772b)
+<br/>
   
 ## Macrodroid GUI (Edit Settings & Add Account Here)
 
 Settings & Information Here<br/>
-
 	  
-![3  Screenshot_20220415-230400_MacroDroid_copy_640x1422](https://user-images.githubusercontent.com/11254983/163649231-921d6e70-86e0-46d0-8064-635d2b450ab8.png) <br/>
-
+![md2](https://github.com/user-attachments/assets/08d2eefb-f1ed-4eeb-87d3-da37a928040e)
+<br/>
 	
 ## Android Downloads
     	
@@ -35,8 +33,8 @@ Settings & Information Here<br/>
   ## Full Program
 <details>
   <summary>Click to expand!</summary>
-	
-  ![Screenshot_20220502-190512_MacroDroid](https://user-images.githubusercontent.com/11254983/166310114-93b22ec4-a938-4d44-bcac-19ca1ae5f7ff.jpg)
+
+![Screenshot_20250212_024353_MacroDroid](https://github.com/user-attachments/assets/b6cc250f-2706-4b59-9104-fbe64ecf01f6)
 	
 </details>
   
